@@ -59,7 +59,7 @@ footer p {
   position: relative;
   float: right;
   margin-right: 10px;
-  color: #f5ba13;
+  color: #f56d13;
   border: none;
   border-radius: 50%;
   width: 36px;
@@ -93,7 +93,7 @@ form button {
   position: absolute;
   right: 18px;
   bottom: -18px;
-  background: #f52213;
+  background: #f5ba13;
   color: #fff;
   border: none;
   border-radius: 50%;
